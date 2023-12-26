@@ -1,0 +1,90 @@
+*{
+    margin: 0%;
+}
+
+body {
+    margin: 0%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(/Final/img/ins\ bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.container-fluid img{
+    width: 2%;
+    height: 2%;
+}
+
+nav{
+    background: rgb(18,59,70);
+    background: linear-gradient(90deg, rgba(18,59,70,1) 0%, rgba(150,150,150,1) 48%, rgba(5,55,64,1) 100%);
+}
+
+nav a{
+    font-family: 'Hemi Head', sans-serif;
+    border-style: solid;
+    margin-left: 1%;
+    word-spacing: 6%;
+    background-color: burlywood;
+}
+
+ul li a{
+    font-family: 'Microsport', sans-serif;
+}
+
+ul .dropdown-menu{
+    background-color: gray;
+}
+
+.container{
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 2%;
+    padding: 10px;
+}
+
+.container .card{
+    width: 308px;
+    height: 100%;
+    margin: 20px 20px;
+    padding: 20px 30px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(/Final/img/grid\ bg.jpg)
+    
+}
+
+.container .card img{
+    height:100%;
+    width: 100%;
+    justify-content: center;
+}
+
+p{
+    margin-right: 10%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: solid;
+    background-color: black;
+    padding: 1%;
+    font-size: 90%;
+}
+
+.container .card h3{
+    color: white;
+    font-family: 'Blockheads', sans-serif;
+    font-size: 270%;
+                                                
+}
+
+h1{
+    color: whitesmoke;
+    font-size: 290%;
+    margin-top: 2%;
+    text-align: center;
+    font-family: 'e Ecano', sans-serif;
+                                                                
+}

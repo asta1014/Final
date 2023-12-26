@@ -1,0 +1,62 @@
+*{
+    margin: 0%;
+}
+
+body {
+    margin: 0%;
+    background-color: rgb(47, 65, 54);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container-fluid img{
+    width: 2%;
+    height: 2%;
+}
+
+nav{
+    background: rgb(18,59,70);
+    background: linear-gradient(90deg, rgba(18,59,70,1) 0%, rgba(150,150,150,1) 48%, rgba(5,55,64,1) 100%);
+}
+
+nav a{
+    font-family: 'Hemi Head', sans-serif;
+    border-style: solid;
+    margin-left: 1%;
+    word-spacing: 6%;
+    background-color: burlywood;
+}
+
+ul li a{
+    font-family: 'Microsport', sans-serif;
+                                                
+}
+
+ul .dropdown-menu{
+    background-color: gray;
+}
+
+.container img {
+    display: block;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    height: 30%;
+    width: 30%;
+    border-radius: 5%;
+    box-shadow: 10px 20px ;
+}
+
+.container p a{
+    font-size: 150%;
+    color: white;
+    font-family: 'Fjalla One', sans-serif;
+    text-align: center;
+    text-decoration: none;
+    text-align: center;
+    border-style: solid;
+}
+
+
+

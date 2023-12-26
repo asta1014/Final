@@ -1,0 +1,75 @@
+*{
+    margin: 0%;
+}
+
+body {
+    margin: 0%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(/Final/img/policy\ bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container-fluid img{
+    width: 2%;
+    height: 2%;
+}
+
+nav{
+    background: rgb(18,59,70);
+    background: linear-gradient(90deg, rgba(18,59,70,1) 0%, rgba(150,150,150,1) 48%, rgba(5,55,64,1) 100%);
+}
+
+nav a{
+    font-family: 'Hemi Head', sans-serif;
+    border-style: solid;
+    margin-left: 1%;
+    word-spacing: 6%;
+    background-color: burlywood;
+}
+
+ul li a{
+    font-family: 'Microsport', sans-serif;
+}
+
+ul .dropdown-menu{
+    background-color: gray;
+}
+
+h1{
+    text-align: center;
+    color: rgb(152, 175, 49);
+    margin-top: 2%;
+    font-family: 'h Harlander', sans-serif;
+                                                
+    font-size: 500%;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-style: solid;
+    border-color: rgb(184, 184, 10);
+    background-color: rgba(0, 0, 0, 0.808);
+    margin-bottom: 3%;
+    font-family: 'Blocktastic', sans-serif;
+    font-size: 150%;
+    padding: 1%;
+                                                
+}
+
+h3{
+    color: white;
+    margin-left: 3%;
+    font-family: 'Fafner', sans-serif;
+    font-style: italic;
+    margin-top: 2%;
+}
+
+pre{
+    color: white;
+    margin-left: 3%;
+    margin-top: auto;
+    font-family: 'Informative', sans-serif;
+}
